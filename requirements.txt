@@ -2,7 +2,7 @@ langchain
 langchain-chroma
 langchain-openai
 langchain-community
-langcorm
+# langcorm
 pypdf
 python-dotenv
 fastapi
